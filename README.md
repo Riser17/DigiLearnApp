@@ -25,6 +25,9 @@ npm start
 yarn start
 ```
 ## Preview 
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/dbdd80e3-19cf-4636-b82f-f75ffa3f8b2e" width="150" height="100">
+
+
 ![Screenshot_1716373170](https://github.com/Riser17/DigiLearnApp/assets/91198103/dbdd80e3-19cf-4636-b82f-f75ffa3f8b2e)
 ![Screenshot_1716373146](https://github.com/Riser17/DigiLearnApp/assets/91198103/3192bdf0-cc49-4ebf-b6ac-e327bbd94576)
 ![Screenshot_1716373140](https://github.com/Riser17/DigiLearnApp/assets/91198103/a1b6ca5a-228c-43e1-b3e9-4217ebef4acb)
