@@ -25,15 +25,11 @@ npm start
 yarn start
 ```
 ## Preview 
-<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/dbdd80e3-19cf-4636-b82f-f75ffa3f8b2e" width="150" height="100">
-
-
-![Screenshot_1716373170](https://github.com/Riser17/DigiLearnApp/assets/91198103/dbdd80e3-19cf-4636-b82f-f75ffa3f8b2e)
-![Screenshot_1716373146](https://github.com/Riser17/DigiLearnApp/assets/91198103/3192bdf0-cc49-4ebf-b6ac-e327bbd94576)
-![Screenshot_1716373140](https://github.com/Riser17/DigiLearnApp/assets/91198103/a1b6ca5a-228c-43e1-b3e9-4217ebef4acb)
-![Screenshot_1716373136](https://github.com/Riser17/DigiLearnApp/assets/91198103/eb55f141-0a0c-4504-bd42-3bc794089484)
-![Screenshot_1716373129](https://github.com/Riser17/DigiLearnApp/assets/91198103/2bf2d8b4-707a-4632-aeb6-d55dfd3b1d8d)
-
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/dbdd80e3-19cf-4636-b82f-f75ffa3f8b2e" width="350" height="350">
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/3192bdf0-cc49-4ebf-b6ac-e327bbd94576" width="350" height="350">
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/a1b6ca5a-228c-43e1-b3e9-4217ebef4acb" width="350" height="350">
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/eb55f141-0a0c-4504-bd42-3bc794089484" width="350" height="350">
+<img src="https://github.com/Riser17/DigiLearnApp/assets/91198103/2bf2d8b4-707a-4632-aeb6-d55dfd3b1d8d" width="350" height="350">
 
 
 ## Screens of the App
